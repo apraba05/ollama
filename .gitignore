@@ -1,0 +1,5 @@
+.bin/
+fallback-proxy
+.venv/
+__pycache__/
+*.exe
